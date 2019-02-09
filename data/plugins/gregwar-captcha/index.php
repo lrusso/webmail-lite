@@ -144,6 +144,7 @@ class CGregwarCaptchaPlugin extends AApiPlugin
 
 	public function PluginWebmailLoginCustomData($mCustomData)
 	{
+		$mCustomData['GregwarCaptchaData'] = strtolower($mCustomData['GregwarCaptchaData']);
 		$iLimitCaptcha = (int) CApi::GetConf('plugins.gregwar-captcha.options.limit-count', 0);
 		if (0 < $iLimitCaptcha)
 		{
@@ -181,6 +182,7 @@ class CGregwarCaptchaPlugin extends AApiPlugin
 
 	public function PluginWebmailRegisterCustomData($mCustomData)
 	{
+		$mCustomData['GregwarCaptchaData'] = strtolower($mCustomData['GregwarCaptchaData']);
 		if (empty($mCustomData['GregwarCaptchaData']))
 		{
 			$GLOBALS['P7_GREGWAR_CAPTCHA_ATTRIBUTE_ON_ERROR'] = true;
@@ -204,6 +206,7 @@ class CGregwarCaptchaPlugin extends AApiPlugin
 	
 	public function PluginWebmailForgotCustomData($mCustomData)
 	{
+		$mCustomData['GregwarCaptchaData'] = strtolower($mCustomData['GregwarCaptchaData']);
 		if (empty($mCustomData['GregwarCaptchaData']))
 		{
 			$GLOBALS['P7_GREGWAR_CAPTCHA_ATTRIBUTE_ON_ERROR'] = true;
