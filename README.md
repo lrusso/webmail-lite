@@ -27,7 +27,7 @@ Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text
 5) Browse to /adminapanel
 6) Login with the username **mailadm** and your admin password to access the webmail system configuration.
 
-**SUGGESTION:** Rename the 'adminpanel' folder to prevent anybody to try to figure it out your admin password.
+**SUGGESTION:** Rename the 'adminpanel' folder to prevent people trying to try to find out your password.
 
 ## How to login with only the username
 
