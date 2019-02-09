@@ -18,7 +18,7 @@ Bugfix 4 | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
 Bugfix 5 | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
 Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text editor.
 
-## How to login with only the username?
+## How to login with only the username
 
 Modify or add the following lines to the file **data/settings/settings.xml**
 
@@ -27,7 +27,7 @@ Modify or add the following lines to the file **data/settings/settings.xml**
 <LoginAtDomainValue>yourwebsite.com</LoginAtDomainValue>
 ```
 
-## How to disable captcha?
+## How to disable captcha
 
 Delete the following lines from the file **data/settings/config.php**
 
@@ -35,3 +35,7 @@ Delete the following lines from the file **data/settings/config.php**
 'plugins.gregwar-captcha' => true,
 'plugins.gregwar-captcha.options.limit-count' => 0,
 ```
+
+## How to update change in style.css or other front-end files
+
+Delete every folder and file that you see in **data/cache**
