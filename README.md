@@ -5,11 +5,11 @@
 TYPE | ELEMENT | DETAILS
 :---: | :---: | --- |
 Added | Language | Full Spanish translation.
-Added | Mobile devices | Better mobile compatibility.
 Added | Login Screen | Captcha implemented by default.
 Added | Login Screen | Disabled 'Remember me' checkbox.
 Added | Login Screen | Disabled 'Language selection' selectbox.
 Added | Login Screen | Better spacing between icons and textboxs.
+Added | Mobile devices | Viewport modified for better compatibility.
 Added | Rich Text Editor | Bottom divisor line in the format toolbar.
 Bugfix 1 | Login Screen | Password icon size focused fixed.
 Bugfix 2 | Rich Text Editor | Textarea section now has a full width.
