@@ -18,6 +18,15 @@ Bugfix 4 | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
 Bugfix 5 | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
 Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text editor.
 
+## How to install
+
+1) Decompress the zip file.
+2) Browse to yourmailfolder/install
+3) Follow the instrucions.
+4) Delete the 'install' folder.
+
+SUGGESTION: Rename the 'adminpanel' folder in order to prevent outsiders to try to figure it out your admin password.
+
 ## How to login with only the username
 
 Modify or add the following lines to the file **data/settings/settings.xml**
