@@ -21,8 +21,8 @@ Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text
 ## How to install
 
 1) Decompress the zip file.
-2) Browse to yourmailfolder/install
-3) Follow the instrucions.
+2) Browse to /install
+3) Follow the instructions.
 4) Delete the 'install' folder.
 
 **SUGGESTION:** Rename the 'adminpanel' folder in order to prevent outsiders to try to figure it out your admin password.
