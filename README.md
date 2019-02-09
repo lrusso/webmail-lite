@@ -47,6 +47,6 @@ Delete the following lines from the file **data/settings/config.php**
 'plugins.gregwar-captcha.options.limit-count' => 0,
 ```
 
-## If you modified some front-end files and can't see any changes
+## If you modified some files and can't see any changes
 
 Delete everything in the folder **data/cache** and reload the page.
