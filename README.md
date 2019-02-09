@@ -47,4 +47,4 @@ Delete the following lines from the file **data/settings/config.php**
 
 ## If you modified some front-end files and can't see any changes
 
-Delete every folder and file that you see in **data/cache** and reload the page.
+Delete everything in the folder **data/cache** and reload the page.
