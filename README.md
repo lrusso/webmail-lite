@@ -4,7 +4,7 @@
 
 TYPE | ELEMENT | DETAILS
 :---: | :---: | --- |
-Added | Language | Complete Spanish translation.
+Added | Language | Full Spanish translation.
 Added | Mobile devices | Better mobile compatibility.
 Added | Login Screen | Captcha implemented by default.
 Added | Login Screen | Disabled 'Remember me' checkbox.
