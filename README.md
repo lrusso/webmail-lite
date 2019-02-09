@@ -17,3 +17,12 @@ Bugfix 3 | Rich Text Editor | Removed extra breakline below signature.
 Bugfix 4 | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
 Bugfix 5 | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
 Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text editor.
+
+## How to login with only the username?
+
+Modify or add the following lines to the file **data/settings/settings.xml**
+
+```
+<LoginFormType>Login</LoginFormType>
+<LoginAtDomainValue>yourwebiste.com</LoginAtDomainValue>
+```
