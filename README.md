@@ -25,7 +25,7 @@ Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text
 3) Follow the instrucions.
 4) Delete the 'install' folder.
 
-SUGGESTION: Rename the 'adminpanel' folder in order to prevent outsiders to try to figure it out your admin password.
+**SUGGESTION:** Rename the 'adminpanel' folder in order to prevent outsiders to try to figure it out your admin password.
 
 ## How to login with only the username
 
