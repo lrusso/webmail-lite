@@ -25,7 +25,7 @@ Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text
 3) Follow the instructions.
 4) Delete the 'install' folder.
 5) Browse to /adminapanel
-6) Login with **mailadm** and your admin password to access the webmail system configuration.
+6) Login with the username **mailadm** and your admin password to access the webmail system configuration.
 
 **SUGGESTION:** Rename the 'adminpanel' folder to prevent outsiders to try to figure it out your admin password.
 
