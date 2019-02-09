@@ -5,7 +5,7 @@
 TYPE | ELEMENT | DETAILS
 :---: | :---: | --- |
 Added | Language | Complete Spanish translation.
-Added | Mobile devices | Compatibility with the desktop version.
+Added | Mobile devices | Better mobile compatibility.
 Added | Login Screen | Captcha implemented by default.
 Added | Login Screen | Disabled 'Remember me' checkbox.
 Added | Login Screen | Disabled 'Language selection' selectbox.
