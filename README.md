@@ -24,5 +24,5 @@ Modify or add the following lines to the file **data/settings/settings.xml**
 
 ```
 <LoginFormType>Login</LoginFormType>
-<LoginAtDomainValue>yourwebiste.com</LoginAtDomainValue>
+<LoginAtDomainValue>yourwebsite.com</LoginAtDomainValue>
 ```
