@@ -10,7 +10,7 @@ Added | Login Screen | Captcha implemented by default.
 Added | Login Screen | Disabled 'Remember me' checkbox.
 Added | Login Screen | Disabled 'Language selection' selectbox.
 Added | Login Screen | Better spacing between icons and textboxs.
-Added | Rich Text Editor | Divisor bottom line in the format toolbar.
+Added | Rich Text Editor | Bottom divisor line in the format toolbar.
 Bugfix 1 | Login Screen | Password icon size focused fixed.
 Bugfix 2 | Rich Text Editor | Textarea section now has a full width.
 Bugfix 3 | Rich Text Editor | Removed extra breakline below signature.
