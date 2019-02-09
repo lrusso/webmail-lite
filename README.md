@@ -26,3 +26,12 @@ Modify or add the following lines to the file **data/settings/settings.xml**
 <LoginFormType>Login</LoginFormType>
 <LoginAtDomainValue>yourwebsite.com</LoginAtDomainValue>
 ```
+
+## How to disable captcha?
+
+Delete the following lines from the file **data/settings/config.php**
+
+```
+'plugins.gregwar-captcha' => true,
+'plugins.gregwar-captcha.options.limit-count' => 0,
+```
