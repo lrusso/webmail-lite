@@ -36,6 +36,6 @@ Delete the following lines from the file **data/settings/config.php**
 'plugins.gregwar-captcha.options.limit-count' => 0,
 ```
 
-## How to update change in style.css or other front-end files
+## I modified some front-end files and I can't see any changes
 
-Delete every folder and file that you see in **data/cache**
+Delete every folder and file that you see in **data/cache** and reload.
