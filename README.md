@@ -17,6 +17,7 @@ Bugfix 3 | Rich Text Editor | Removed extra breakline below signature.
 Bugfix 4 | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
 Bugfix 5 | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
 Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text editor.
+Bugfix 7 | Installer | Fixed logo image reference.
 
 ## How to install
 
