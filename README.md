@@ -1,23 +1,23 @@
-## WebMail Lite 7.8 - Personal version with several bugfixes and updates.
+## WebMail Lite 7.8 - Personal version with several bugfixes and updates
 
-## Changelog:
+## Changelog
 
 TYPE | ELEMENT | DETAILS
 :---: | :---: | --- |
-Added | Language | Full Spanish translation.
-Added | Login Screen | Captcha implemented by default.
-Added | Login Screen | Disabled 'Remember me' checkbox.
-Added | Login Screen | Disabled 'Language selection' selectbox.
-Added | Login Screen | Better spacing between icons and textboxs.
-Added | Mobile devices | Viewport modified for better compatibility.
-Added | Rich Text Editor | Bottom divisor line in the format toolbar.
-Bugfix 1 | Login Screen | Password icon size focused fixed.
-Bugfix 2 | Rich Text Editor | Textarea section now has a full width.
-Bugfix 3 | Rich Text Editor | Removed extra breakline below signature.
-Bugfix 4 | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
-Bugfix 5 | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
-Bugfix 6 | Compose Window | Prevents the attachment list to overlapping the text editor.
-Bugfix 7 | Installer | Fixed logo image reference.
+Fixed | Login Screen | Password icon size focused fixed.
+Fixed | Rich Text Editor | Textarea section now has a full width.
+Fixed | Rich Text Editor | Removed extra breakline below signature.
+Fixed | Rich Text Editor | Prevents the vertical scrollbar to be missplaced.
+Fixed | Plugin Captcha | Plugin updated for the latest version of Webmail Lite 7.
+Fixed | Compose Window | Prevents the attachment list to overlapping the text editor.
+Fixed | Installer | Fixed logo image reference.
+Updated | Language | Full Spanish translation.
+Updated | Login Screen | Captcha implemented by default.
+Updated | Login Screen | Disabled 'Remember me' checkbox.
+Updated | Login Screen | Disabled 'Language selection' selectbox.
+Updated | Login Screen | Better spacing between icons and textboxs.
+Updated | Mobile devices | Viewport modified for better compatibility.
+Updated | Rich Text Editor | Bottom divisor line in the format toolbar.
 
 ## How to install
 
